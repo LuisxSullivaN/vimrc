@@ -1,0 +1,36 @@
+[submodule "pack/sullivan/start/vim-closetag"]
+	path = pack/sullivan/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag.git
+[submodule "pack/sullivan/start/vim-easy-align"]
+	path = pack/sullivan/start/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule "pack/theme/start/gruvbox"]
+	path = pack/theme/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/sullivan/start/lightline"]
+	path = pack/sullivan/start/lightline
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/theme/start/lightline-gruvbox"]
+	path = pack/theme/start/lightline-gruvbox
+	url = https://github.com/shinchu/lightline-gruvbox.vim.git
+[submodule "pack/sullivan/start/editor-config"]
+	path = pack/sullivan/start/editor-config
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/sullivan/start/nerdtree"]
+	path = pack/sullivan/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/sullivan/start/vim-devicons"]
+	path = pack/sullivan/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "pack/sullivan/start/emmet-vim"]
+	path = pack/sullivan/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "pack/theme/start/snazzy"]
+	path = pack/theme/start/snazzy
+	url = https://github.com/connorholyday/vim-snazzy.git
+[submodule "pack/sullivan/start/vim-jsx-pretty"]
+	path = pack/sullivan/start/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+[submodule "pack/sullivan/start/markdown-preview"]
+	path = pack/sullivan/start/markdown-preview
+	url = https://github.com/iamcco/markdown-preview.vim.git
