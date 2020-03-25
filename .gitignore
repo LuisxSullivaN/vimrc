@@ -1,0 +1,3 @@
+.netrwhist
+# Directory for persistent undo in vim
+undodir/
