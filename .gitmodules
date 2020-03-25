@@ -34,3 +34,9 @@
 [submodule "pack/sullivan/start/markdown-preview"]
 	path = pack/sullivan/start/markdown-preview
 	url = https://github.com/iamcco/markdown-preview.vim.git
+[submodule "pack/sullivan/start/vim-qml"]
+	path = pack/sullivan/start/vim-qml
+	url = https://github.com/peterhoeg/vim-qml.git
+[submodule "pack/theme/start/monokai"]
+	path = pack/theme/start/monokai
+	url = https://github.com/crusoexia/vim-monokai.git
