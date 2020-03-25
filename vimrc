@@ -1,3 +1,5 @@
+" Part of this file was inspired in makigas vimrc (@danirod)
+
 set nocompatible "disable Vi compatibility mode
 set history=1000 "increase history size
 set noswapfile
