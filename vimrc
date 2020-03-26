@@ -31,13 +31,11 @@ set hidden "allow buffers to be hidden and switch between them without saving ch
 set fillchars+=vert:\┊ "character used in split window's line
 set wildmenu "enhanced menu for autocompletation commands
 
+set guifont=Symbols\ Nerd\ Font\ 12
+
 inoremap {<CR> {<CR>}<Esc>O
 
 colorscheme monokai
-
-let g:lightline = {
-\ 'colorscheme': 'monokai',
-\ }
 
 " Enable true colors (tmux stuff)
 if exists('+termguicolors')
