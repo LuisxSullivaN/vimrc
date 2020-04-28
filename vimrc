@@ -17,7 +17,7 @@ set undodir=~/.vim/undodir
 set number "show line numbers
 set relativenumber "show numbers as relative
 set cursorline "cursor line hightlighting
-set cursorcolumn "cursor column
+set cursorcolumn "cursor column highlighting
 set nowrap "don't wrap long lines
 set splitbelow "horizontal split below
 set splitright "vertial split right
@@ -31,11 +31,9 @@ set hidden "allow buffers to be hidden and switch between them without saving ch
 set fillchars+=vert:\┊ "character used in split window's line
 set wildmenu "enhanced menu for autocompletation commands
 
-set guifont=Symbols\ Nerd\ Font\ 12
-
 inoremap {<CR> {<CR>}<Esc>O
 
-colorscheme monokai
+colorscheme nord
 
 " Enable true colors (tmux stuff)
 if exists('+termguicolors')

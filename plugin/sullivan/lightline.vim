@@ -1,5 +1,5 @@
 let g:lightline = {
-\ 'colorscheme': 'monokai',
+\ 'colorscheme': 'nord',
 \ 'active': {
 \   'right': [ [ 'lineinfo' ],
 \              [ 'percent' ],
