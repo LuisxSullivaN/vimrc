@@ -3,11 +3,12 @@ let g:lightline = {
 \ 'active': {
 \   'right': [ [ 'lineinfo' ],
 \              [ 'percent' ],
-\              [ 'fileformat', 'fileencoding', 'filetype' ] ]
+\              [ 'cocstatus', 'fileformat', 'fileencoding', 'filetype' ] ]
 \ },
 \ 'component_function': {
 \   'filetype': 'MyFiletype',
 \   'fileformat': 'MyFileformat',
+\   'cocstatus': 'coc#status',
 \ },
 \ }
 

@@ -19,9 +19,6 @@
 [submodule "pack/sullivan/start/vim-devicons"]
 	path = pack/sullivan/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
-[submodule "pack/sullivan/start/emmet-vim"]
-	path = pack/sullivan/start/emmet-vim
-	url = https://github.com/mattn/emmet-vim.git
 [submodule "pack/theme/start/snazzy"]
 	path = pack/theme/start/snazzy
 	url = https://github.com/connorholyday/vim-snazzy.git
@@ -43,3 +40,9 @@
 [submodule "pack/sullivan/start/dart-vim"]
 	path = pack/sullivan/start/dart-vim
 	url = https://github.com/dart-lang/dart-vim-plugin.git
+[submodule "pack/sullivan/start/vim-pandoc"]
+	path = pack/sullivan/start/vim-pandoc
+	url = https://github.com/vim-pandoc/vim-pandoc.git
+[submodule "pack/sullivan/start/vim-snippets"]
+	path = pack/sullivan/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
