@@ -40,9 +40,6 @@
 [submodule "pack/sullivan/start/dart-vim"]
 	path = pack/sullivan/start/dart-vim
 	url = https://github.com/dart-lang/dart-vim-plugin.git
-[submodule "pack/sullivan/start/vim-pandoc"]
-	path = pack/sullivan/start/vim-pandoc
-	url = https://github.com/vim-pandoc/vim-pandoc.git
 [submodule "pack/sullivan/start/vim-snippets"]
 	path = pack/sullivan/start/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
