@@ -43,3 +43,6 @@
 [submodule "pack/sullivan/start/vim-snippets"]
 	path = pack/sullivan/start/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "pack/sullivan/start/indentLine"]
+	path = pack/sullivan/start/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
