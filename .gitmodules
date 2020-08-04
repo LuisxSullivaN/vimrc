@@ -4,9 +4,6 @@
 [submodule "pack/sullivan/start/vim-easy-align"]
 	path = pack/sullivan/start/vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align.git
-[submodule "pack/theme/start/gruvbox"]
-	path = pack/theme/start/gruvbox
-	url = https://github.com/morhetz/gruvbox.git
 [submodule "pack/sullivan/start/lightline"]
 	path = pack/sullivan/start/lightline
 	url = https://github.com/itchyny/lightline.vim.git
@@ -31,9 +28,6 @@
 [submodule "pack/sullivan/start/vim-qml"]
 	path = pack/sullivan/start/vim-qml
 	url = https://github.com/peterhoeg/vim-qml.git
-[submodule "pack/theme/start/monokai"]
-	path = pack/theme/start/monokai
-	url = https://github.com/crusoexia/vim-monokai.git
 [submodule "pack/sullivan/start/dart-vim"]
 	path = pack/sullivan/start/dart-vim
 	url = https://github.com/dart-lang/dart-vim-plugin.git
