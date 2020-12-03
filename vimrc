@@ -23,6 +23,7 @@ set splitbelow "horizontal split below
 set splitright "vertial split right
 
 set laststatus=2 "always show status bar
+set showtabline=2 "always show tab bar (for integration with lightline-bufftabline plugin)
 
 set encoding=utf-8
 set backspace=indent,eol,start "backspace always work on insert mode
@@ -47,9 +48,11 @@ map <C-P> :bprev<CR>
 
 let mapleader=","
 
-" Nord theme specific configuration. Doesn't work in pack/plugin/theme/nord.vim because it needs to
+" Nord theme specific configuration
 let g:nord_cursor_line_number_background = 1
 let g:nord_italic = 1
 let g:nord_italic_comments = 1
+" Miramare theme specific configuration
+let g:miramare_enable_italic = 1
 
-colorscheme nord
+colorscheme base16-default-dark
