@@ -52,9 +52,6 @@
 [submodule "pack/sullivan/start/todoist-nvim"]
 	path = pack/sullivan/start/todoist-nvim
 	url = https://github.com/romgrk/todoist.nvim.git
-[submodule "pack/sullivan/start/vim-clap"]
-	path = pack/sullivan/start/vim-clap
-	url = https://github.com/liuchengxu/vim-clap.git
 [submodule "pack/sullivan/start/coc-nvim"]
 	path = pack/sullivan/start/coc-nvim
 	url = https://github.com/neoclide/coc.nvim.git
