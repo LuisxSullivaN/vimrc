@@ -49,9 +49,9 @@
 [submodule "pack/sullivan/start/lightline-bufferline"]
 	path = pack/sullivan/start/lightline-bufferline
 	url = https://github.com/mengelbrecht/lightline-bufferline.git
-[submodule "pack/sullivan/start/todoist-nvim"]
-	path = pack/sullivan/start/todoist-nvim
-	url = https://github.com/romgrk/todoist.nvim.git
 [submodule "pack/sullivan/start/coc-nvim"]
 	path = pack/sullivan/start/coc-nvim
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/sullivan/start/todoist-nvim"]
+	path = pack/sullivan/start/todoist-nvim
+	url = https://github.com/romgrk/todoist.nvim.git
