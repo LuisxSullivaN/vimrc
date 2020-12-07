@@ -43,8 +43,8 @@ if exists('+termguicolors')
 endif
 
 " Shortcuts for switching the buffers
-map <C-N> :bnext<CR>
-map <C-P> :bprev<CR>
+map <C-K> :bnext<CR>
+map <C-J> :bprev<CR>
 
 let mapleader=","
 
