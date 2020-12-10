@@ -52,3 +52,6 @@
 [submodule "pack/theme/start/material"]
 	path = pack/theme/start/material
 	url = https://github.com/kaicataldo/material.vim.git
+[submodule "pack/sullivan/start/coc-nvim"]
+	path = pack/sullivan/start/coc-nvim
+	url = https://github.com/neoclide/coc.nvim.git
