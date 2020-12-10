@@ -1,5 +1,5 @@
 let g:lightline = {
-\ 'colorscheme': 'base16_default_dark',
+\ 'colorscheme': 'material_vim',
 \ 'active': {
 \   'right': [ [ 'lineinfo' ],
 \              [ 'percent' ],
