@@ -48,11 +48,8 @@ map <C-J> :bprev<CR>
 
 let mapleader=","
 
-" Nord theme specific configuration
-let g:nord_cursor_line_number_background = 1
-let g:nord_italic = 1
-let g:nord_italic_comments = 1
-" Miramare theme specific configuration
-let g:miramare_enable_italic = 1
+" Material theme specific configuration
+let g:material_terminal_italics = 1
+let g:material_theme_style = 'darker'
 
-colorscheme base16-default-dark
+colorscheme material
