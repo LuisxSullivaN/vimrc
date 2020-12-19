@@ -49,3 +49,6 @@
 [submodule "pack/sullivan/start/coc-nvim"]
 	path = pack/sullivan/start/coc-nvim
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/sullivan/start/vim-carbon-now-sh"]
+	path = pack/sullivan/start/vim-carbon-now-sh
+	url = https://github.com/kristijanhusak/vim-carbon-now-sh.git
