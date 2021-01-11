@@ -52,3 +52,6 @@
 [submodule "pack/sullivan/start/calendar-vim"]
 	path = pack/sullivan/start/calendar-vim
 	url = https://github.com/itchyny/calendar.vim.git
+[submodule "pack/sullivan/start/vim-carbon-now-sh"]
+	path = pack/sullivan/start/vim-carbon-now-sh
+	url = https://github.com/kristijanhusak/vim-carbon-now-sh.git
