@@ -1,6 +1,8 @@
 let g:lightline = {
 \ 'colorscheme': 'material_vim',
 \ 'active': {
+\   'left': [ [ 'mode' ],
+\             [ 'gitbranch','filename', 'readonly' ] ],
 \   'right': [ [ 'lineinfo' ],
 \              [ 'percent' ],
 \              [ 'cocstatus', 'fileformat', 'fileencoding', 'filetype' ] ]
@@ -19,6 +21,7 @@ let g:lightline = {
 \   'filetype': 'MyFiletype',
 \   'fileformat': 'MyFileformat',
 \   'cocstatus': 'coc#status',
+\   'gitbranch': 'gitbranch#name'
 \ },
 \}
 
@@ -29,3 +32,4 @@ endfunction
 function! MyFileformat()
   return winwidth(0) > 70 ? (&fileformat . ' ' . WebDevIconsGetFileFormatSymbol()) : ''
 endfunction
+
