@@ -30,7 +30,6 @@ set backspace=indent,eol,start "backspace always work on insert mode
 set hidden "allow buffers to be hidden and switch between them without saving changes
 
 set fillchars+=vert:\┊ "character used in split window's line
-set list lcs=tab:┊\  " show character for indentation levels
 set wildmenu "enhanced menu for autocompletation commands
 
 inoremap {<CR> {<CR>}<Esc>O
