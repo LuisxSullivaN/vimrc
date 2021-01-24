@@ -58,3 +58,6 @@
 [submodule "pack/sullivan/start/vim-gitbranch"]
 	path = pack/sullivan/start/vim-gitbranch
 	url = https://github.com/itchyny/vim-gitbranch.git
+[submodule "pack/sullivan/start/groovy-vim"]
+	path = pack/sullivan/start/groovy-vim
+	url = https://github.com/modille/groovy.vim.git
