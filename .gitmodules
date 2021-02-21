@@ -61,3 +61,6 @@
 [submodule "pack/sullivan/start/groovy-vim"]
 	path = pack/sullivan/start/groovy-vim
 	url = https://github.com/modille/groovy.vim.git
+[submodule "pack/sullivan/start/vim-styled-components"]
+	path = pack/sullivan/start/vim-styled-components
+	url = https://github.com/styled-components/vim-styled-components.git
