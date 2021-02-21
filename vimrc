@@ -48,6 +48,8 @@ map <C-J> :bprev<CR>
 
 let mapleader=","
 
+let g:tex_flavor = 'latex'
+
 " Material theme specific configuration
 let g:material_terminal_italics = 1
 let g:material_theme_style = 'darker'
